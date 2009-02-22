@@ -189,17 +189,17 @@
         <selectedIndex>3</selectedIndex>
       </controlProperties>
     </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::FieldSet" x="10" y="447" w="145" h="72" measuredW="200" measuredH="170" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::FieldSet" x="156" y="452" w="145" h="72" measuredW="200" measuredH="170" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <text>3D%20Shapes</text>
       </controlProperties>
     </control>
-    <control controlID="67" controlTypeID="com.balsamiq.mockups::Link" x="21" y="462" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Link" x="167" y="467" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <text>cube</text>
       </controlProperties>
     </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::Link" x="21" y="487" w="-1" h="-1" measuredW="39" measuredH="25" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Link" x="167" y="492" w="-1" h="-1" measuredW="39" measuredH="25" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
         <text>circle</text>
       </controlProperties>
@@ -219,22 +219,22 @@
         <text>sweep</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::FieldSet" x="174" y="447" w="119" h="72" measuredW="200" measuredH="170" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::FieldSet" x="312" y="452" w="119" h="72" measuredW="200" measuredH="170" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>My%203D%20Library</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Link" x="185" y="462" w="-1" h="-1" measuredW="23" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Link" x="323" y="467" w="-1" h="-1" measuredW="23" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
         <text>...</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="185" y="487" w="-1" h="-1" measuredW="46" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="323" y="492" w="-1" h="-1" measuredW="46" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <text>liberty</text>
       </controlProperties>
     </control>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::Link" x="62" y="462" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Link" x="208" y="467" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <text>surface</text>
       </controlProperties>
@@ -254,9 +254,24 @@
         <text>group</text>
       </controlProperties>
     </control>
-    <control controlID="94" controlTypeID="com.balsamiq.mockups::Link" x="62" y="487" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="50" locked="false" isInGroup="-1">
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Link" x="208" y="492" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <text>mesh</text>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::FieldSet" x="10" y="452" w="136" h="72" measuredW="200" measuredH="170" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Boolean%20Ops</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Link" x="21" y="467" w="-1" h="-1" measuredW="82" measuredH="25" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Boolean%20Add</text>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::Link" x="21" y="492" w="-1" h="-1" measuredW="113" measuredH="25" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Boolean%20Subtract</text>
       </controlProperties>
     </control>
   </controls>
