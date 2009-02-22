@@ -76,27 +76,7 @@
         <text>iso</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::FieldSet" x="357" y="102" w="147" h="72" measuredW="200" measuredH="170" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Measurements</text>
-      </controlProperties>
-    </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Link" x="368" y="119" w="-1" h="-1" measuredW="67" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>dimensions</text>
-      </controlProperties>
-    </control>
-    <control controlID="25" controlTypeID="com.balsamiq.mockups::Link" x="368" y="138" w="-1" h="-1" measuredW="43" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>angles</text>
-      </controlProperties>
-    </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Link" x="440" y="119" w="-1" h="-1" measuredW="38" measuredH="25" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>notes</text>
-      </controlProperties>
-    </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="8" y="189" w="601" h="479" measuredW="789" measuredH="470" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="8" y="189" w="601" h="479" measuredW="789" measuredH="470" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./3d.JPG</src>
       </controlProperties>
