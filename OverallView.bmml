@@ -5,6 +5,16 @@
         <text>3D%20CAD%0Ahttp%3A//3dcad.org</text>
       </controlProperties>
     </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Link" x="347" y="119" w="-1" h="-1" measuredW="65" measuredH="25" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>isomorphic</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Link" x="361" y="139" w="-1" h="-1" measuredW="78" measuredH="25" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>perspective</text>
+      </controlProperties>
+    </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="8" y="71" w="604" h="118" measuredW="262" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>View%2C2D%2C2D%20to%203D%2C3D</text>
@@ -41,44 +51,50 @@
         <text>zoom%20all</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::FieldSet" x="202" y="102" w="147" h="72" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::FieldSet" x="202" y="102" w="244" h="72" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Preset%20Views</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Link" x="213" y="119" w="-1" h="-1" measuredW="25" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::CheckBox" x="347" y="142" w="18" h="18" measuredW="25" measuredH="18" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>top</text>
+        <text/>
+        <state>selected</state>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="251" y="119" w="-1" h="-1" measuredW="38" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Link" x="261" y="119" w="-1" h="-1" measuredW="38" measuredH="25" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>front</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="305" y="119" w="-1" h="-1" measuredW="36" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Link" x="305" y="119" w="-1" h="-1" measuredW="36" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
         <text>right</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="251" y="139" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Link" x="261" y="139" w="-1" h="-1" measuredW="34" measuredH="25" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <text>back</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="305" y="139" w="-1" h="-1" measuredW="29" measuredH="25" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Link" x="305" y="139" w="-1" h="-1" measuredW="29" measuredH="25" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>left</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Link" x="213" y="138" w="-1" h="-1" measuredW="22" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Link" x="211" y="139" w="-1" h="-1" measuredW="45" measuredH="25" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>iso</text>
+        <text>bottom</text>
       </controlProperties>
     </control>
-    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="8" y="189" w="601" h="479" measuredW="789" measuredH="470" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Image" x="8" y="189" w="601" h="479" measuredW="789" measuredH="470" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./3d.JPG</src>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="211" y="119" w="-1" h="-1" measuredW="25" measuredH="25" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>top</text>
       </controlProperties>
     </control>
   </controls>
