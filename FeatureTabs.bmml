@@ -224,14 +224,14 @@
         <text>My%203D%20Library</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Link" x="323" y="467" w="-1" h="-1" measuredW="23" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Link" x="323" y="467" w="-1" h="-1" measuredW="65" measuredH="25" zOrder="44" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>...</text>
+        <text>tessaract</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="323" y="492" w="-1" h="-1" measuredW="46" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Link" x="323" y="492" w="-1" h="-1" measuredW="74" measuredH="25" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>liberty</text>
+        <text>hyperboloid</text>
       </controlProperties>
     </control>
     <control controlID="89" controlTypeID="com.balsamiq.mockups::Link" x="208" y="467" w="-1" h="-1" measuredW="53" measuredH="25" zOrder="46" locked="false" isInGroup="-1">
